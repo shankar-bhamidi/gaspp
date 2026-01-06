@@ -29,6 +29,10 @@ This is an intentionally exploratory, research-oriented course. Roughly two-thir
 
 The course is not implementation-heavy; the emphasis is on understanding, intuition, reading research papers critically, and identifying research directions.
 
+### Major acknowledgement
+
+I can only convey my understanding of the material, much of which I learnt from the material in the [Resources](resources). In particular I need to mention the wonderful resources developed by [Prof. Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/genai/25/) and [Prof. Ambuj Tewari](https://www.ambujtewari.com/LLM-fall2024/). I am largely following in the shadow of these giants. 
+
 ---
 
 ## Learning goals
