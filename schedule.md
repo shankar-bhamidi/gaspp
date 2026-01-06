@@ -8,7 +8,7 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 | Date | Topic | Materials |
 |---|---|---|
-| 2026-01-08 (Thu) |  |  |
+| 2026-01-08 (Thu) | Intro to course. Class expectations.  | Slides: [link]() Notes: [notes]([notes](#2026-01-08-reading))  |
 | 2026-01-13 (Tue) |  |  |
 | 2026-01-15 (Thu) |  |  |
 | 2026-01-20 (Tue) |  |  |
@@ -29,7 +29,13 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 | 2026-03-12 (Thu) |  |  |
 
 
+## More detailed reading
 
+### 2026-01-08 reading
+
+<a id="2026-01-08-reading"></a>
+
+**Suggested reading:**
 
 ---
 
