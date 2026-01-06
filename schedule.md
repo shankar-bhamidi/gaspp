@@ -8,7 +8,7 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 | Date | Topic | Materials |
 |---|---|---|
-| 2026-01-08 (Thu) | Intro to course. Class expectations.  | Slides: [link]() Notes: [notes]([notes](#2026-01-08-reading))  |
+| 2026-01-08 (Thu) | Intro to course. Class expectations.  | Slides: [link](https://www.dropbox.com/scl/fi/53dz0xelclaw1qjih31eg/Lecture_1_syllabus.pdf?rlkey=t1wlln53pur6pfmdx555glg4g&dl=0) Reading: [notes](#2026-01-08-reading)  |
 | 2026-01-13 (Tue) |  |  |
 | 2026-01-15 (Thu) |  |  |
 | 2026-01-20 (Tue) |  |  |
@@ -43,13 +43,13 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 | Date | Topic | Materials |
 |---|---|---|
-| 2026-01-08 (Thu) | Intro to course. Class expectations. | Slides: [link]() · Notes: [link]() |
-| 2026-01-13 (Tue) | BPE / N-grams / vector semantics / representation learning | Slides: [link]() · Reading: [link]() |
-| 2026-01-15 (Thu) | Information theory: cross-entropy loss and MLE | Slides: [link]() · Reading: [link]() |
-| 2026-01-20 (Tue) | AEP, ergodic theory, Shannon–McMillan–Breiman | Slides: [link]() · Reading: [link]() |
-| 2026-01-22 (Thu) | Markov chains for text; stochastic gradient descent | Slides: [link]() · Reading: [link]() |
-| 2026-01-27 (Tue) | SGD in low and high dimensions | Slides: [link]() · Reading: [link]() |
-| 2026-01-29 (Thu) | SGD continued: neural networks | Slides: [link]() · Reading: [link]() |
+| 2026-01-08 (Thu) | Intro to course. Class expectations. | Slides: [link](https://www.dropbox.com/scl/fi/53dz0xelclaw1qjih31eg/Lecture_1_syllabus.pdf?rlkey=t1wlln53pur6pfmdx555glg4g&dl=0) · Notes: [link]() |
+| 2026-01-13 (Tue) | BPE / N-grams / vector semantics / representation learning | Slides: [link](https://www.dropbox.com/scl/fi/53dz0xelclaw1qjih31eg/Lecture_1_syllabus.pdf?rlkey=t1wlln53pur6pfmdx555glg4g&dl=0) · Reading: [link]() |
+| 2026-01-15 (Thu) | Information theory: cross-entropy loss and MLE | Slides: [link](https://www.dropbox.com/scl/fi/k6ghcjau38xcjyn016hv0/Lecture_2.pdf?rlkey=11gpvejc1n8y00pte722gyqu8&dl=0) · Reading: [link]() |
+| 2026-01-20 (Tue) | AEP, ergodic theory, Shannon–McMillan–Breiman | Slides: [link](https://www.dropbox.com/scl/fi/k6ghcjau38xcjyn016hv0/Lecture_2.pdf?rlkey=11gpvejc1n8y00pte722gyqu8&dl=0) · Reading: [link]() |
+| 2026-01-22 (Thu) | Markov chains for text; stochastic gradient descent | Slides: [link](https://www.dropbox.com/scl/fi/khrq3bhos4giilv43lgzn/Lecture_3.pdf?rlkey=w0eipwrh57l71ew5kd3hgv9x0&dl=0) · Reading: [link]() |
+| 2026-01-27 (Tue) | SGD in low and high dimensions | Slides: [link](https://www.dropbox.com/scl/fi/zmr4qeqxdxlezp8tlgchc/Lecture_4.pdf?rlkey=09um96ibg3z6pmpqigd43h751&dl=0) · Reading: [link]() |
+| 2026-01-29 (Thu) | SGD continued: neural networks | Slides: [link](https://www.dropbox.com/scl/fi/zmr4qeqxdxlezp8tlgchc/Lecture_4.pdf?rlkey=09um96ibg3z6pmpqigd43h751&dl=0) · Reading: [link]() |
 | 2026-02-03 (Tue) | Transformers, attention | Slides: [link]() · Reading: [link]() |
 | 2026-02-05 (Thu) | Transformers, attention (cont.) | Slides: [link]() · Reading: [link]() |
 | 2026-02-10 (Tue) | Transformers and interacting particle systems | Slides: [link]() · Reading: [link]() |
