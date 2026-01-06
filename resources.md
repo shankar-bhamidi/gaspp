@@ -16,7 +16,7 @@ There is no single required textbook. We will draw from textbooks, surveys, pape
 - **Sourav Chatterjee**, *Superconcentration and Related Topics*
 
 ## Related online courses (great complements)
-- Carnegie Mellon — Generative AI (Fall 2025): https://www.stat.cmu.edu/~cshalizi/genai/25/
-- Ambuj Tewari — LLM Course (Fall 2024): https://www.ambujtewari.com/LLM-fall2024/
+- Carnegie Mellon — Generative AI (Fall 2025) by [Prof. Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/genai/25/)
+- University of Michigan Ann-Arbor: LLM Course (Fall 2024) by [Prof. Ambuj Tewari](https://www.ambujtewari.com/LLM-fall2024/)
 
 > Additional papers and notes will be posted as the course evolves (primarily via Canvas).
