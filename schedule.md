@@ -8,7 +8,7 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 | Date | Topic | Materials |
 |---|---|---|
-| 2026-01-08 (Thu) | Intro to course. Class expectations.  | Slides: [link](https://www.dropbox.com/scl/fi/53dz0xelclaw1qjih31eg/Lecture_1_syllabus.pdf?rlkey=t1wlln53pur6pfmdx555glg4g&dl=0) Reading: [notes](#2026-01-08-reading)  |
+| 2026-01-08 (Thu) | Intro to course. Class expectations.  | Slides: [Lecture 1](https://www.dropbox.com/scl/fi/53dz0xelclaw1qjih31eg/Lecture_1_syllabus.pdf?rlkey=t1wlln53pur6pfmdx555glg4g&dl=0) Reading: [notes](#2026-01-08-reading)  |
 | 2026-01-13 (Tue) |  |  |
 | 2026-01-15 (Thu) |  |  |
 | 2026-01-20 (Tue) |  |  |
@@ -29,13 +29,19 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 | 2026-03-12 (Thu) |  |  |
 
 
-## More detailed reading
+# Detailed reading
 
 ### 2026-01-08 reading
 
 <a id="2026-01-08-reading"></a>
 
-**Suggested reading:**
+**Suggested reading and additional resources:**
+
+- [Machine learning street talk Podcast with Chris Bishop](https://www.youtube.com/watch?v=kuvFoXzTK3E). Some key takeaways:
+  
+    + **Fundamental importance of probability theory:** Across the podcast, Bishop emphasizes that probability theory is the foundational language of machine learning because the subject is inherently about learning from data under uncertainty. He argues that once you take uncertainty seriously and want a quantitative framework, you are naturally led to probability, and he presents it as the conceptual bedrock for how to think about modeling, prediction, and learning. In that spirit, *he’s direct about advice to students: he recommends they invest seriously in learning probability, and he says you can’t really work in machine learning without understanding it*. He also acknowledges that modern practice often relies on scalable approximations—point estimates and stochastic gradient methods—yet he treats probability theory as the guiding framework that explains what those procedures are trying to do and how to interpret their outputs, including uncertainty and generalization. He highlights probability theory as a unifying lens across seemingly different methods, noting that algorithms like hidden Markov models and Kalman filters can be derived from the same basic probability rules and graphical factorization ideas. Stepping back, Bishop suggests that part of the maturation of the field has been a shift toward a more probabilistic and statistical perspective, with probability theory providing a durable bedrock for clear thinking even as models and compute continue to evolve.
+    + **Mysteries of stochastic gradient descent:** Bishop points out that modern deep learning overturns a core statistical intuition: in earlier machine learning and in classical statistics, fitting models with far more parameters than data points seems obviously unreasonable. Bishop notes that, nevertheless, overparameterized neural networks often drive the training error to zero while the test error continues to improve. Bishop argues that this behavior suggests generalization is not explained simply by “minimize a loss and reach a global optimum.” Because there are many global minima with zero training error—some that overfit and others that generalize—Bishop emphasizes that the training dynamics, especially the implicit bias of stochastic gradient descent, appear to play a central role in selecting good solutions. Bishop concludes that explaining why these systems work so well remains an important open research problem.
+    + **Magic of information theory:** Bishop also highlights what feels like the “magic of information theory”: when neural networks are trained to compress human language—i.e., to represent and predict it efficiently—they unexpectedly acquire the ability to behave like “reasoning engines.” He frames this as a genuine surprise to the field: a compression-driven objective can produce emergent reasoning capability rather than merely better text prediction.
 
 ---
 
