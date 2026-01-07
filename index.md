@@ -29,6 +29,10 @@ This is an intentionally exploratory, research-oriented course. Roughly two-thir
 
 The course is not implementation-heavy; the emphasis is on understanding, intuition, reading research papers critically, and identifying research directions.
 
+## Official syllabus
+
+More details can be [found here](https://www.dropbox.com/scl/fi/8bz46six7z77tcvzb74zq/syllabus.pdf?rlkey=4r3ei83i5k3orujxzjo3zvwda&dl=0)
+
 ### Major acknowledgement
 
 I can only convey my understanding of the material, much of which I learnt from the material in the [Resources](resources). In particular I need to mention the wonderful resources developed by [Prof. Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/genai/25/) and [Prof. Ambuj Tewari](https://www.ambujtewari.com/LLM-fall2024/). I am largely following in the shadow of these giants. 
