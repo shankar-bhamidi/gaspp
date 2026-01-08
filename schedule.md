@@ -31,9 +31,14 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 # Detailed reading
 
-### 2026-01-08 reading
+## 2026-01-08 reading
 
 <a id="2026-01-08-reading"></a>
+
+**Material covered in the lecture**
+
+- Lecture 1, slides 1-49.
+- [Jurafsky and Martin, Chapter 2, Sec 2.1, 2.2, 2.4](https://web.stanford.edu/~jurafsky/slp3/)
 
 **Suggested reading and additional resources:**
 
