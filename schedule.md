@@ -35,12 +35,12 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 <a id="2026-01-08-reading"></a>
 
-**Material covered in the lecture**
+### Material covered in the lecture
 
 - Lecture 1, slides 1-49.
 - [Jurafsky and Martin, Chapter 2, Sec 2.1, 2.2, 2.4](https://web.stanford.edu/~jurafsky/slp3/)
 
-**Suggested reading and additional resources:**
+### Suggested reading and additional resources
 
 - [Machine learning street talk Podcast with Chris Bishop](https://www.youtube.com/watch?v=kuvFoXzTK3E). Some key takeaways:
   
