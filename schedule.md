@@ -9,7 +9,7 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 | Date | Topic | Materials |
 |---|---|---|
 | 2026-01-08 (Thu) | Intro to course. Class expectations. BPE Tokenization. | Slides: [Lecture 1, P1-49](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-08-reading)  |
-| 2026-01-13 (Tue) |  |  |
+| 2026-01-13 (Tue) |  |Slides:[]()  Reading: [notes](#2026-01-13-reading) |
 | 2026-01-15 (Thu) |  |  |
 | 2026-01-20 (Tue) |  |  |
 | 2026-01-22 (Thu) |  |  |
@@ -49,6 +49,16 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
     + **Magic of information theory:** Bishop also highlights what feels like the “magic of information theory”: when neural networks are trained to compress human language—i.e., to represent and predict it efficiently, they unexpectedly acquire the ability to behave like “reasoning engines.” He frames this as a genuine surprise to the field: a compression-driven objective can produce emergent reasoning capability rather than merely better text prediction.
 
 - [Andrej Karpathy on Dwarkesh podcast](https://www.dwarkesh.com/p/andrej-karpathy): deep thinker and expert in this general area. One thing I am still wrapping my head around are his views on reinforcement learning and its role in training LLMs. I know very little about this general area. His take is as follows: Karpathy argues that reinforcement learning plays only a limited and deeply flawed role in the development of large language models. His core critique is that RL relies on an extremely weak learning signal: a single scalar reward assigned after a long trajectory of actions, which is then indiscriminately propagated backward across every step. This creates noisy credit assignment, where incorrect reasoning steps are reinforced as long as the final outcome happens to be correct. He describes this as “sucking supervision through a straw” and views it as a statistically inefficient and conceptually misguided approach. In contrast to humans, who reflect selectively, revise mistakes, and attribute credit unevenly, RL blindly upweights entire trajectories. As a result, RL does not capture how reasoning or learning actually works and produces brittle improvements rather than genuine gains in intelligence. At the same time, Karpathy emphasizes that imitation learning and pretraining were far more surprising and impactful breakthroughs than reinforcement learning. Fine-tuning pretrained models on human demonstrations quickly transformed autocomplete systems into useful assistants while preserving their knowledge. Reinforcement learning, such as RLHF, provides incremental benefits like preference shaping and modest hill climbing when correct answers exist, but it does not solve reasoning, planning, or continual learning. Attempts to improve RL through process-based supervision run into severe problems because automated judges are gameable and lead to adversarial behavior, where models exploit reward models without improving correctness. Karpathy believes progress will require fundamentally new training paradigms involving reflection, selective credit assignment, memory, and distillation, rather than simply scaling RL, and he does not see reinforcement learning as the main path toward general intelligence. I guess only time will tell where we stand on these debates. While the above podcast goes into lots of other topics, in the specific setting of reinforcement learning, it seems to follow a previous podcast by another great researcher [Richard Sutton](https://www.dwarkesh.com/p/richard-sutton). I have not had the time to dive into this second podcast yet. 
+
+
+## 2026-01-13 reading
+
+<a id="2026-01-13-reading"></a>
+
+### Material covered in the lecture
+
+### Suggested reading and additional resources
+
 
 ---
 
