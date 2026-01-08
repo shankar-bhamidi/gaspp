@@ -51,7 +51,7 @@ By the end of the semester, students should:
 
 ## Quick links
 
-- **[Schedule](schedule)** (main, living schedule + materials links)
+- **[Schedule](schedule)** (main, living schedule + materials links). **This is probably the most important part of this webpage**
 - **[Resources](resources)** (books, notes, online courses)
 - **[Policies & Projects](policies)** (expectations, proposal, final project)
 
