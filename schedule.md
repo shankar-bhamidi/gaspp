@@ -57,7 +57,12 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 
 ### Material covered in the lecture
 
+- [Lecture 1, slides 49 - 114](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0)
+
 ### Suggested reading and additional resources
+
+- [Chapter 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+- [Neural Word Embedding as Implicit Matrix Factorization by Omer Levy, Yoav Goldberg](https://proceedings.neurips.cc/paper_files/paper/2014/hash/b78666971ceae55a8e87efb7cbfd9ad4-Abstract.html)
 
 
 ---
