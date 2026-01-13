@@ -9,7 +9,7 @@ Official announcements/submissions are via **Canvas**.   This page is the “liv
 | Date | Topic | Materials |
 |---|---|---|
 | 2026-01-08 (Thu) | Intro to course. Class expectations. BPE Tokenization. | Slides: [Lecture 1, P1-49](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-08-reading)  |
-| 2026-01-13 (Tue) |  |Slides:[]()  Reading: [notes](#2026-01-13-reading) |
+| 2026-01-13 (Tue) | Vector semantics and representation learning. Classification and inevitability of logistic regression.    |Slides: [Lecture 1, slides 49 - 114](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-13-reading) |
 | 2026-01-15 (Thu) |  |  |
 | 2026-01-20 (Tue) |  |  |
 | 2026-01-22 (Thu) |  |  |
