@@ -74,7 +74,7 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 |---|---|---|
 | 2026-01-08 (Thu) | Intro to course. Class expectations. BPE Tokenization. | Slides: [Lecture 1, P1-49](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-08-reading)  |
 | 2026-01-13 (Tue) | Vector semantics and representation learning. Classification and inevitability of logistic regression.    |Slides: [Lecture 1, slides 49 - 114](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-13-reading) |
-| 2026-01-15 (Thu) | Word2vec and node2vec. Toy models. Start of information theory  |Slides: [Lecture 1, slides 114 - end](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0), [Lecture 2, slides 1-9](https://www.dropbox.com/scl/fi/16rlm3ww97rq91my5y8eg/Lecture_2.pdf?rlkey=3enqjuzi1wtczyrnqnuu07ga8&dl=0) Reading:  [notes](#2026-01-16-reading)   |
+| 2026-01-15 (Thu) | Word2vec and node2vec. Toy models. Start of information theory  |Slides: [Lecture 1, slides 114 - end](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0), [Lecture 2, slides 1-9](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0) Reading:  [notes](#2026-01-16-reading)   |
 | 2026-01-20 (Tue) |  |  |
 | 2026-01-22 (Thu) |  |  |
 | 2026-01-27 (Tue) |  |  |
@@ -135,7 +135,7 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 ### Material covered in the lecture
 
 - [Lecture 1, slides 114 - end](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0)
-- [Lecture 2, slides 1-9](https://www.dropbox.com/scl/fi/16rlm3ww97rq91my5y8eg/Lecture_2.pdf?rlkey=3enqjuzi1wtczyrnqnuu07ga8&dl=0)
+- [Lecture 2, slides 1-9](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0)
 
 ### Suggested reading and additional resources
 
