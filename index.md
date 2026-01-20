@@ -68,7 +68,7 @@ By the end of the semester, students should:
 <a id="schedule"></a>
 
 
-Official announcements/submissions are via **Canvas**.   This part of the page is the “living” schedule with links (e.g., Dropbox) to slides, notes, and readings.
+Official announcements/submissions are via **Canvas**.   This part of the page is the “living” schedule with links (e.g., Dropbox) to slides, notes, and readings. If the links below do not work, this [folder link to all the lectures](https://www.dropbox.com/scl/fo/q1swubljjiyiyo60ha46z/AEcK3fIeshq2FQNJvvxGCxg?rlkey=eyt1o5fl2ev72nibhlso8yzu5&st=trfp2boh&dl=0) should hopefully  be more stable. 
 
 | Date | Topic | Materials |
 |---|---|---|
