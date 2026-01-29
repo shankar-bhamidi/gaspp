@@ -75,10 +75,10 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-01-08 (Thu) | Intro to course. Class expectations. BPE Tokenization. | Slides: [Lecture 1, P1-49](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-08-reading)  |
 | 2026-01-13 (Tue) | Vector semantics and representation learning. Classification and inevitability of logistic regression.    |Slides: [Lecture 1, slides 49 - 114](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0) Reading: [notes](#2026-01-13-reading) |
 | 2026-01-15 (Thu) | Word2vec and node2vec. Toy models. Start of information theory  |Slides: [Lecture 1, slides 114 - end](https://www.dropbox.com/scl/fi/mvjeb6kbomjx8t2oa1970/Lecture_1_syllabus.pdf?rlkey=5caej7vjr6m4i6q8mxcw83u7c&dl=0), [Lecture 2, slides 1-9](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0) Reading:  [notes](#2026-01-16-reading)   |
-| 2026-01-20 (Tue) |  |Slides: [](), Reading: [notes](#2026-01-20-reading)  |
-| 2026-01-22 (Thu) |  |  |
-| 2026-01-27 (Tue) |  |  |
-| 2026-01-29 (Thu) |  |  |
+| 2026-01-20 (Tue) | Basics of information theory  |Slides: [Lecture 2, Slides 9-41](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0), Reading: [notes](#2026-01-20-reading)  |
+| 2026-01-22 (Thu) | Data processing inequality, Information theory and MLE and LDP. Entropy rates for stochastic processes  | Slides: [Lecture 2, associated slides](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0),   |
+| 2026-01-27 (Tue) | Classes cancelled owing to snow day.  |  |
+| 2026-01-29 (Thu) | Ergodic sequences and entropy. Convexity of KL. Information geometry (maximization of Entropy, ELBO) | Slides: [Lecture 2, associated slides](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0), Reading: [notes](#2026-01-29-reading) |
 | 2026-02-03 (Tue) |  |  |
 | 2026-02-05 (Thu) |  |  |
 | 2026-02-10 (Tue) |  |  |
@@ -145,7 +145,7 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 
 ## 2026-01-20 reading
 
-<a id="2026-01-16-reading"></a>
+<a id="2026-01-20-reading"></a>
 
 ### Material covered in the lecture
 
@@ -155,6 +155,20 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 
 - Related to the lecture material: 
 - Related to the proposed open problems: [Node2vec](https://arxiv.org/abs/1607.00653), [Random walks on configuration model](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-6B/Rankings-in-directed-configuration-models-with-heavy-tailed-in-degrees/10.1214/23-AAP1955.full), [Entropic time and cutoff](https://link.springer.com/article/10.1007/s00440-018-0834-0) and [Salez's lecture notes](https://arxiv.org/pdf/2508.21055)
+
+
+## 2026-01-29 reading
+
+<a id="2026-01-29-reading"></a>
+
+### Material covered in the lecture
+
+
+
+### Suggested reading and additional resources
+
+- Related to the lecture material: [Chapter 3,4 and 11 from Cover and Thomas](https://catalog.lib.unc.edu/catalog/UNCb9216852)
+
 
 ---
 
