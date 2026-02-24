@@ -79,8 +79,8 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-01-22 (Thu) | Data processing inequality, Information theory and MLE and LDP. Entropy rates for stochastic processes  | Slides: [Lecture 2, associated slides](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0),   |
 | 2026-01-27 (Tue) | Classes cancelled owing to snow day.  |  |
 | 2026-01-29 (Thu) | Ergodic sequences and entropy. Convexity of KL. Information geometry (maximization of Entropy, ELBO) | Slides: [Lecture 2, associated slides](https://www.dropbox.com/scl/fi/bov3kck6dl46webr2xsae/Lecture_2.pdf?rlkey=lqieq9hxs7gtl46t7olg19xmg&dl=0), Reading: [notes](#2026-01-29-reading) |
-| 2026-02-03 (Tue) |  |  |
-| 2026-02-05 (Thu) |  |  |
+| 2026-02-03 (Tue) | N-gram models and their use  | Slides: [Lecture 3](https://www.dropbox.com/scl/fi/gh7pps0a02aotst33ctsf/Lecture_3.pdf?rlkey=0fz1qwm7zd13ftt5la7g755q9&dl=0)  |
+| 2026-02-05 (Thu) | Finished N-gram models. Started Neural networks. Origin story.   |  |
 | 2026-02-10 (Tue) |  |  |
 | 2026-02-12 (Thu) |  |  |
 | 2026-02-17 (Tue) |  |  |
