@@ -83,9 +83,9 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-02-05 (Thu) | Finished N-gram models. Started Neural networks. Origin story.   | Slides: [Lecture 3](https://www.dropbox.com/scl/fi/gh7pps0a02aotst33ctsf/Lecture_3.pdf?rlkey=0fz1qwm7zd13ftt5la7g755q9&dl=0), [Lecture 4, Slides 1-20](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
 | 2026-02-10 (Tue) | Neural networks, Kolmogarov and Arnold. Baby implementation in Logistic regression | [Lecture 4, Slides 21-45](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
 | 2026-02-12 (Thu) | Neural networks and Stochastic gradient descent, Back propogation. Noise contrastive estimation |[Lectue 4, slides 45-86](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
-| 2026-02-17 (Tue) |  |  |
-| 2026-02-19 (Thu) |  |  |
-| 2026-02-24 (Tue) |  |  |
+| 2026-02-17 (Tue) | Basics of Stochastic gradient descent | [Lecture 4, slides 95-115](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
+| 2026-02-19 (Thu) | Convergence a.s for stochastic gradient descent, state of the art for high dimensional stochastic gradient descent | [Lecture 4 till the end](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
+| 2026-02-24 (Tue) | Enter the transformer | [Lecture 5](https://www.dropbox.com/scl/fi/9yu2iq92yfp5kr7sdsl3x/Lecture_5.pdf?rlkey=uxm4z5fy5eao6t2jzkiidyaxx&dl=0)  |
 | 2026-02-26 (Thu) |  |  |
 | 2026-03-03 (Tue) |  |  |
 | 2026-03-05 (Thu) |  |  |
