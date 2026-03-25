@@ -97,10 +97,10 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-04-02 (Thu) | Well-being Day |  |
 | 2026-04-07 (Tue) | GANs and autoencoders I   |  |
 | 2026-04-09 (Thu) |  GANs and autoencoders II |  |
-| 2026-04-14 (Tue) |  |  |
-| 2026-04-16 (Thu) |  |  |
-| 2026-04-21 (Tue) |  |  |
-| 2026-04-23 (Thu) |  |  |
+| 2026-04-14 (Tue) | Diffusion models I |  |
+| 2026-04-16 (Thu) | Diffusion models II |  |
+| 2026-04-21 (Tue) | Diffusion models III |  |
+| 2026-04-23 (Thu) | Conclusion |  |
 
 
 # Detailed reading
