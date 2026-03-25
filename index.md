@@ -86,11 +86,13 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-02-17 (Tue) | Basics of Stochastic gradient descent | [Lecture 4, slides 95-115](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
 | 2026-02-19 (Thu) | Convergence a.s for stochastic gradient descent, state of the art for high dimensional stochastic gradient descent | [Lecture 4 till the end](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
 | 2026-02-24 (Tue) | Enter the transformer | [Lecture 5](https://www.dropbox.com/scl/fi/9yu2iq92yfp5kr7sdsl3x/Lecture_5.pdf?rlkey=uxm4z5fy5eao6t2jzkiidyaxx&dl=0)  |
-| 2026-02-26 (Thu) |  |  |
-| 2026-03-03 (Tue) |  |  |
-| 2026-03-05 (Thu) |  |  |
-| 2026-03-10 (Tue) |  |  |
-| 2026-03-12 (Thu) |  |  |
+| 2026-02-26 (Thu) | Transformers, attention (cont.) | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-03-03 (Tue) | Transformers contd | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-03-05 (Thu) | Transforms and interacting particle systems. Synchronization. | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-03-10 (Tue) | Influence functions; superconcentration; propagation of chaos | Slides: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
+| 2026-03-12 (Thu) |  Neural scaling and transformers | Slides: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
+| 2026-03-24 (Tue) |Latent variables I: K-means and EM  | Slides: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
+| 2026-03-26 (Thu) |Latent variables II: continuous setting, variational inference, statistical physics  | Slides: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
 
 
 # Detailed reading
@@ -183,17 +185,17 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-01-22 (Thu) | Markov chains for text; stochastic gradient descent | Slides: [link](https://www.dropbox.com/scl/fi/gh7pps0a02aotst33ctsf/Lecture_3.pdf?rlkey=0fz1qwm7zd13ftt5la7g755q9&dl=0) · Reading: [link]() |
 | 2026-01-27 (Tue) | SGD in low and high dimensions | Slides: [link](https://www.dropbox.com/scl/fi/j0ax8g5wdft4f7yhkooh4/Lecture_4.pdf?rlkey=nzovwmxqtburkiaunlvp1ougt&dl=0) · Reading: [link]() |
 | 2026-01-29 (Thu) | SGD continued: neural networks | Slides: [link](https://www.dropbox.com/scl/fi/j0ax8g5wdft4f7yhkooh4/Lecture_4.pdf?rlkey=nzovwmxqtburkiaunlvp1ougt&dl=0) · Reading: [link]() |
-| 2026-02-03 (Tue) | Transformers, attention | Slides: [link]() · Reading: [link]() |
-| 2026-02-05 (Thu) | Transformers, attention (cont.) | Slides: [link]() · Reading: [link]() |
-| 2026-02-10 (Tue) | Transformers and interacting particle systems | Slides: [link]() · Reading: [link]() |
-| 2026-02-12 (Thu) | Prompting as conditioning; RLHF | Slides: [link]() · Reading: [link]() |
-| 2026-02-17 (Tue) | Influence functions; superconcentration; propagation of chaos | Slides: [link]() · Reading: [link]() |
-| 2026-02-19 (Thu) | Interlude: graph rep learning; spectral clustering | Slides: [link]() · Reading: [link]() |
-| 2026-02-24 (Tue) | Interlude: graph neural networks | Slides: [link]() · Reading: [link]() |
-| 2026-02-26 (Thu) | Latent variables I: K-means and EM | Slides: [link]() · Reading: [link]() |
-| 2026-03-03 (Tue) | Latent variables II: VI & ELBO; score matching | Slides: [link]() · Reading: [link]() |
-| 2026-03-05 (Thu) | GANs and autoencoders | Slides: [link]() · Reading: [link]() |
-| 2026-03-10 (Tue) | GANs and autoencoders II | Slides: [link]() · Reading: [link]() |
+| 2026-02-03 (Tue) | Transformers, attention | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-02-05 (Thu) | Transformers, attention (cont.) | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-02-10 (Tue) | Transformers contd | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-02-12 (Thu) | Transforms and interacting particle systems. Synchronization. | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-02-17 (Tue) | Influence functions; superconcentration; propagation of chaos | Slides: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
+| 2026-02-19 (Thu) | Neural scaling and transformers | Slides: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
+| 2026-02-24 (Tue) | Latent variables I: K-means and EM  | Slides: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
+| 2026-02-26 (Thu) | Latent variables II: VI & ELBO; | Slides: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
+| 2026-03-03 (Tue) | No class. Project working time! | Slides: [link]() · Reading: [link]() |
+| 2026-03-05 (Thu) | UNC well being day | Slides: [link]() · Reading: [link]() |
+| 2026-03-10 (Tue) | GANs and autoencoders I | Slides: [link]() · Reading: [link]() |
 | 2026-03-12 (Thu) | Diffusion models I | Slides: [link]() · Reading: [link]() |
 
 ---
