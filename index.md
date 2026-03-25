@@ -86,13 +86,13 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-02-17 (Tue) | Basics of Stochastic gradient descent | [Lecture 4, slides 95-115](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
 | 2026-02-19 (Thu) | Convergence a.s for stochastic gradient descent, state of the art for high dimensional stochastic gradient descent | [Lecture 4 till the end](https://www.dropbox.com/scl/fi/9h1yhpe29356f01ud5110/Lecture_4.pdf?rlkey=w5g6hge3m6wtlm6acq1rdi2zg&dl=0)  |
 | 2026-02-24 (Tue) | Enter the transformer | [Lecture 5](https://www.dropbox.com/scl/fi/9yu2iq92yfp5kr7sdsl3x/Lecture_5.pdf?rlkey=uxm4z5fy5eao6t2jzkiidyaxx&dl=0)  |
-| 2026-02-26 (Thu) | Transformers, attention (cont.) | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
-| 2026-03-03 (Tue) | Transformers contd | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
-| 2026-03-05 (Thu) | Transforms and interacting particle systems. Synchronization. | Slides: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
-| 2026-03-10 (Tue) | Influence functions; superconcentration; propagation of chaos | Slides: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
-| 2026-03-12 (Thu) |  Neural scaling and transformers | Slides: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
-| 2026-03-24 (Tue) |Latent variables I: K-means and EM  | Slides: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
-| 2026-03-26 (Thu) |Latent variables II: continuous setting, variational inference, statistical physics  | Slides: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
+| 2026-02-26 (Thu) | Transformers, attention (cont.) | Lecture 5: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-03-03 (Tue) | Transformers contd | Lecture 5: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0) · Reading: [link]() |
+| 2026-03-05 (Thu) | Transforms and interacting particle systems. Synchronization. | Lecture 5: [link](https://www.dropbox.com/scl/fi/aey4fydkfm0kbqq7hi78v/Lecture_5.pdf?rlkey=kk430qsn8hp6ic0y8h59k3dhr&dl=0)  [Synchronization slides](https://www.dropbox.com/scl/fi/kkdikw8rcd0iy7plhycgv/Kuramoto_explanations.pdf?rlkey=1oqw9f7aqv56xg2epn2jtztd6&dl=0), [General overview from YEP slides](https://www.dropbox.com/scl/fi/3dngjcnj8tbfcxfbaps4g/Lecture_3_YEP.pdf?rlkey=cpqreuj21ruifouf75cf4y2ey&dl=0)· Reading: [link]() |
+| 2026-03-10 (Tue) | Influence functions; superconcentration; propagation of chaos | Lecture 6: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
+| 2026-03-12 (Thu) |  Neural scaling and transformers | Lecture 6: [link](https://www.dropbox.com/scl/fi/cx9ozorvj2khcjsyjwtyb/Lecture_6.pdf?rlkey=fwpn7jkjxi2r6lubplrupjab7&dl=0) · Reading: [link]() |
+| 2026-03-24 (Tue) |Latent variables I: K-means and EM  | Lecture 8: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
+| 2026-03-26 (Thu) |Latent variables II: continuous setting, variational inference, statistical physics  | Lecture 8: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0) · Reading: [link]() |
 
 
 # Detailed reading
