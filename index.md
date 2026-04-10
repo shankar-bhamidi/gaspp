@@ -96,8 +96,8 @@ Official announcements/submissions are via **Canvas**.   This part of the page i
 | 2026-03-31 (Tue) | No class |  |
 | 2026-04-02 (Thu) | Well-being Day |  |
 | 2026-04-07 (Tue) | Belief propogation and statistical physics. GANs and autoencoders I   | End of Lecture 8: [link](https://www.dropbox.com/scl/fi/xa44h0uytrn5c8o7kwsl9/Lecture_8.pdf?rlkey=82k8ad82flbhaud612z7wtjer&dl=0). Start of Lecture 9: [link](https://www.dropbox.com/scl/fi/wge3imjuh6gtqmwm5dtcd/Lecture_9_revised_v3.pdf?rlkey=z69lc4abt3kwjfhee9szvcnfg&dl=0) |
-| 2026-04-09 (Thu) |  GANs and autoencoders II |  |
-| 2026-04-14 (Tue) | GANs and autoencoders II contd |  |
+| 2026-04-09 (Thu) | GANs and normalizing flows I | Lecture 9: [link](https://www.dropbox.com/scl/fi/wge3imjuh6gtqmwm5dtcd/Lecture_9_revised_v3.pdf?rlkey=z69lc4abt3kwjfhee9szvcnfg&dl=0)  |
+| 2026-04-14 (Tue) | Normalizing flows and autoencoders | ecture 9: [link](https://www.dropbox.com/scl/fi/wge3imjuh6gtqmwm5dtcd/Lecture_9_revised_v3.pdf?rlkey=z69lc4abt3kwjfhee9szvcnfg&dl=0) |
 | 2026-04-16 (Thu) | Diffusion models I |  |
 | 2026-04-21 (Tue) | [Dr. Ritwik Sinha from Adobe visiting the class](https://research.adobe.com/person/ritwik-sinha/) |  |
 | 2026-04-23 (Thu) | Diffusion models II |  |
