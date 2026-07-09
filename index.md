@@ -11,7 +11,7 @@ title: "STOR 89X (Spring 2026): GASPp"
 
 > **Note on course logistics:** Official course materials, announcements, submissions, and grades will be handled via **UNC Canvas**.  
 > This public website provides a lightweight “front door” with links to slides/notes/readings (e.g., via Dropbox) and a running schedule.
-
+> Funding gratefully acknowledge from NSF DMS-2413928, DMS-2434559 and NSF RTG grant DMS-2134107.
 ---
 
 ## Course overview
